@@ -1,9 +1,9 @@
 {
   "name": "@commander-lol/cryptec",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Wrap the crypto module for the common use case",
   "main": "cryptec.js",
-  "repository": {},
   "author": "Louis Capitanchik <contact@louiscap.co>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "repository": "git@github.com:Commander-lol/node-cryptec.git"
 }
